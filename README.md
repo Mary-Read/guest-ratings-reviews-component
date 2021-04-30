@@ -1,2 +1,2 @@
-# monthly-payment-proxy
-Monthly Payment Proxy
+# guest-ratings-review-component
+Guest Ratings and Review Component
